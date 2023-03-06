@@ -1,2 +1,4 @@
-# 25-5-Clock
-an app that is functionally similar to this: https://25--5-clock.freecodecamp.rocks.
+# FCC: React Pomodoro Clock
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/rufaro-mutepfa/pen/dyGxYPO](https://codepen.io/rufaro-mutepfa/pen/dyGxYPO).
+
